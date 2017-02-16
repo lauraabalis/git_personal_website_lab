@@ -1,0 +1,101 @@
+/*
+BODY
+*/
+
+body {
+  background: #F7E4FF;
+  color: #18064F;
+  font: 16px/22px "Crimson Text", serif;
+}
+
+/*HEADER*/
+
+header h1 {
+  line-height: 45px;
+  display: inline;
+  text-align: center;
+  padding-left: 350px;
+}
+
+header h3 {
+  padding-left: 350px;
+  line-height: 45px;
+  margin: 0;
+  display: inline;
+}
+
+.ribbon {
+  background: #E84CAA;
+}
+
+/*NAVIGATION*/
+
+nav {
+  padding-left: 0;
+  padding-right: 350px;
+  margin-bottom: 0;
+  list-style: none;
+  float: right;
+  display: inline;
+  font-size: 16px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+
+nav li a:hover {
+  color: white;
+}
+
+/*HEADINGS*/
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+/*IMAGES*/
+
+.animals {
+  font-family: 'Pacifico', cursive;
+}
+
+.pet-pics {
+  border-radius: 25%;
+  display: block;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+/*PARAGRAPHS*/
+
+p {
+  text-align: center;
+  padding-left: 450px;
+  padding-right: 450px;
+  font-size: 18px;
+}
+
+/*FOOTER*/
+
+.g-ribbon {
+  background: #F7901E;
+}
+
+iframe {
+  width: 512px;
+  display: block;
+  margin: 0 auto;
+}
